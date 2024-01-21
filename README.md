@@ -1,1 +1,1 @@
-# Shorting_Visualizer
+# Shorting-Visualizer
